@@ -1,13 +1,15 @@
 # readme-profile-images
 
-## Profile
+## Hi, I'm Asiyah! 👋  
+**QA Engineer | 5 years of experience**  
 
-![My Profile](./images/Github%20Profile.gif)
+<p align="center">
+  <img src="./images/Github%20Profile.gif" alt="My Profile" width="200"/>
+</p>
 
 ## About Me
 
-Hi, I'm Asiyah! 👋  
-I'm a **QA Engineer** with **5 years of experience** ensuring full-cycle testing for web, mobile, and Web3 applications. My passion lies in delivering stable, high-performing, and user-friendly digital experiences. I take full responsibility for the QA process — from test planning and execution to regression and release validation.
+I'm a **QA Engineer** ensuring full-cycle testing for web, mobile, and Web3 applications. My passion lies in delivering stable, high-performing, and user-friendly digital experiences. I take full responsibility for the QA process — from test planning and execution to regression and release validation.
 
 ## Skills & Tools
 
@@ -18,7 +20,7 @@ I'm a **QA Engineer** with **5 years of experience** ensuring full-cycle testing
 ## Certifications
 
 - **QA Engineer** – Binar Academy (Mar 2023 - Aug 2023)  
-  [View certification](https://drive.google.com/file/d/1V2AcRrtkKXyu95Rg92kXWVR2M66s3Rqw/view?usp=sharing)
+  [View certification](https://drive.google.com/file/d/1uoxxD3SIaIkt5cgZJzLM4NO-XSW6bAuc/view?usp=sharing)
 
 ## Connect with Me
 
