@@ -1,14 +1,14 @@
-# readme-profile-images
+# asiyah-qa
 
 <div align="center">
   <h1>Hi, I'm Asiyah! 👋</h1>
-  <h3>QA Engineer | 5 years of experience</h3>
+  <h3>QA Engineer | Ensuring seamless, bug-free digital experiences</h3>
   <br>
   <img src="./images/Github%20Profile.gif" alt="My Profile" width="400"/>
 </div>
 
 ## About Me
-I'm a **QA Engineer** ensuring full-cycle testing for web, mobile, and Web3 applications. My passion lies in delivering stable, high-performing, and user-friendly digital experiences. I take full responsibility for the QA process — from test planning and execution to regression and release validation.
+I'm a **QA Engineer** with 5 years of experience, ensuring full-cycle testing for web, mobile, and Web3 applications. My passion lies in delivering stable, high-performing, and user-friendly digital experiences. I take full responsibility for the QA process — from test planning and execution to regression and release validation.
 
 ---
 
