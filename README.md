@@ -1,5 +1,3 @@
-# asiyah-qa
-
 <div align="center">
   <h1>Hi, I'm Asiyah! 👋</h1>
   <h3>QA Engineer | Ensuring seamless, bug-free digital experiences</h3>
@@ -23,7 +21,14 @@ I'm a **QA Engineer** with 5 years of experience, ensuring full-cycle testing fo
 ## Certifications
 
 - **QA Engineer** – Binar Academy (Mar 2023 - Aug 2023)  
-  [View my certification here](https://drive.google.com/file/d/1uoxxD3SIaIkt5cgZJzLM4NO-XSW6bAuc/view?usp=sharing) 🎓
+  [View Certification](https://drive.google.com/file/d/1V2AcRrtkKXyu95Rgo2XWWVR2M66s3Rqw/view?usp=sharing) 🎓
+
+---
+
+## Portfolio
+
+- **[View My QA Portfolio](https://drive.google.com/file/d/1uoxxD3SIaIkt5cgZJzLM4NO-XSW6bAuc/view?usp=sharing)**  
+  Explore my work in manual and automation testing with tools like Katalon Studio, Postman, and JMeter.
 
 ---
 
